@@ -1,0 +1,53 @@
+body {
+	background: black;
+}
+.instagramHello {
+	width: 420px;
+	height: 550px;
+	background: white;
+	margin: auto;
+	margin-bottom: 50px;
+}
+
+.photoTitle {
+	width: 100%;
+    size: 16px;
+    font-weight: bold;
+    margin-left: 5px;
+}
+
+.photoEllipsis {
+    color: black;
+    padding: 30px 10px 0px 0px
+}
+
+
+.instagramHello-body img {
+	width: 420px;
+	height: 300px;
+}
+
+.instagramHello-header {
+    background-color: white;
+	display: flex;
+}
+ h1 {
+	text-align: center;
+	background-color: black;
+	padding: 10px;
+	margin: 0 0 50px 0;
+}
+.instagramHello-footer {
+	margin: 10px 20px 0 10px;
+    text-align: left;
+	word-wrap: break-word;
+    
+}
+.bookmark{
+	left:75%;
+	position: relative;
+}
+.icon-html{
+margin-top: 30px;
+margin-left: 15px;
+}
